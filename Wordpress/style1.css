@@ -1,0 +1,31 @@
+li{height: 10px;
+width:20%;
+background-color:tomato
+border-bottom-width:5px;
+border-bottom-style:solid;
+border-bottom-color:black;
+
+border-bottom-width:10px;
+border-bottom-style:solid;
+border-bottom-color:red;
+}
+
+p{ height: 10px;
+width:20%;
+background-color:orange
+border-bottom-width:5px;
+border-bottom-style:solid;
+border-bottom-color:blue;
+
+}
+
+h1{height: 10px;
+width:20%;
+background-color:purple
+border-bottom-width:5px;
+border-bottom-style:solid;
+border-bottom-color:black;
+
+}
+
+
